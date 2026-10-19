@@ -1,5 +1,5 @@
 String[] menuName = {"아메리카노", "카페라떼", "바닐라라떼"};
-int[] menuPrice = {3000, 4000, 5000};
+int[] menuPrice = {4000, 5000, 6000};
 
 final int ERROR = -9;
 final String ERR001 = "ERR001 : 다시 입력하세요.";
