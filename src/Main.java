@@ -63,6 +63,7 @@ void printReceipt(int menuChoice, int menuSize, int quantity, int total)
     System.out.println("결제금액 : " + total);
 }
 
+
 void main()
 {
     int menuChoice = 2; // 카페라떼
